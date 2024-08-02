@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/AKSHAY2126/gitac1/compare/v1.0.0...v1.1.0) (2024-08-02)
+
+
+### Features
+
+* checking new thing-1 ([ecaac5b](https://github.com/AKSHAY2126/gitac1/commit/ecaac5beaacd357c02a80eff96f62107eeed5821))
+
 ## 1.0.0 (2024-08-02)
 
 
